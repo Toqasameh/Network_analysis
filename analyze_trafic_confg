@@ -1,0 +1,6 @@
+
+
+
+declare LOG_FILE=./logs.file
+
+declare FILTERD_PROTOCOLS="http tls"
